@@ -1,6 +1,7 @@
 ### :pencil2: LeetCode题解（Python3）
  + [Array](https://github.com/cielzzz/AlgorithmNotes/tree/master/LeetCode/Array)
  + [BFS](https://github.com/cielzzz/AlgorithmNotes/tree/master/LeetCode/BFS)
+ + [Backtrack](https://github.com/cielzzz/AlgorithmNotes/tree/master/LeetCode/Backtrack)
  + [BinarySearch](https://github.com/cielzzz/AlgorithmNotes/tree/master/LeetCode/BinarySearch)
  + [DFS](https://github.com/cielzzz/AlgorithmNotes/tree/master/LeetCode/DFS)
  + [DP](https://github.com/cielzzz/AlgorithmNotes/tree/master/LeetCode/DP)
