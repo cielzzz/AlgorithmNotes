@@ -15,6 +15,7 @@
  + [bit_operation](https://github.com/cielzzz/AlgorithmNotes/tree/master/LeetCode/bit_operation)
  + [stack](https://github.com/cielzzz/AlgorithmNotes/tree/master/LeetCode/stack)
  + [string](https://github.com/cielzzz/AlgorithmNotes/tree/master/LeetCode/string)
-
+### 👊: 排序算法（Python3）
+ + [排序](https://github.com/cielzzz/AlgorithmNotes/tree/master/LeetCode/sort_algorithm)
 ### :coffee: 剑指offer（Python3）
  + [剑指offer](https://github.com/cielzzz/AlgorithmNotes/tree/master/LeetCode/jz_offer)
